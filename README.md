@@ -116,9 +116,9 @@ Cutting **60%+ of manual sorting and mismatch-checking** allows a single part-ti
 | Member | Role | Focus Area |
 | :--- | :--- | :--- |
 | **Nishanth N** | Cybersecurity & Backend Lead | Agent 1 Fraud Shield (QR/GSTIN/Hash), RBAC Security & Python FastAPI |
-| **Teammate 2** | Design & Pitch Lead | Pitch Deck, UI/UX Wireframes, Branding & Visual Storytelling |
-| **Teammate 3** | Frontend & AI Agents Lead | Business Health Dashboard UI, Lyzr Agent 2/3 & Financial Co-Pilot |
-| **Teammate 4** | Architecture & Strategy Lead | System Architecture, Field Research (Traders/CAs) & Business Model |
+| **Rohit Sah** | Design & Pitch Lead | Pitch Deck, UI/UX Wireframes, Branding & Visual Storytelling |
+| **Rehan Khan** | Frontend & AI Agents Lead | Business Health Dashboard UI, Lyzr Agent 2/3 & Financial Co-Pilot |
+| **Aadarsh Mishra** | Architecture & Strategy Lead | System Architecture, Field Research (Traders/CAs) & Business Model |
 
 ---
 
